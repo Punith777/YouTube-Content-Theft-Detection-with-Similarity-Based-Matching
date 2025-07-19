@@ -1,0 +1,11 @@
+yt-dlp
+ffmpeg-python
+imagehash
+pillow
+openai
+numpy
+requests
+tqdm
+torch
+transformers
+scikit-learn
